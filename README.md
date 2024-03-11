@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Nextjs and backend as service<br>👯 I’m looking to collaborate on MERN and frontend projects<br>🌱 I’m currently learning TypeScript and Mongodb<br>💬 Ask me about JavaScript<br>⚡ Fun fact I Code Daily 💫
+🔭 I’m currently working on Nextjs and backend as service<br>👯 I’m looking to collaborate on MERN and frontend projects<br>🌱 I’m currently learning  Blockchain<br>💬 Ask me about JavaScript<br>⚡ Fun fact I Code Daily 💫
 
 
 ## 🌐 Socials:

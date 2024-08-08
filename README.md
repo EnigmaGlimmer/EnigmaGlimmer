@@ -1,14 +1,14 @@
 <h1 align="center">
   Hi. Welcome to my github
-  <img src="https://0xlancerlab.com/0xlancerlab-logo.png" width="30px"/>
+ // <img src="https://0xlancerlab.com/0xlancerlab-logo.png" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://0xlancerlab.com/banner.jpg" width="900" height="480"/>
+//  <img src="https://0xlancerlab.com/banner.jpg" width="900" height="480"/>
 </div>
 <br>
 
 
-### :woman_technologist: About Me : <a href="https://0xlancerlab.com" target="_blank"> 0xLancerLab </a>
+### :woman_technologist: About Me :// <a href="https://0xlancerlab.com" target="_blank"> 0xLancerLab </a>
     I am the lead developer of 0xLancerLab.
   - :telescope: Developing and mentoring web and blockchain projects.
 
